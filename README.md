@@ -3,10 +3,7 @@
 
 <img src="https://www.youngjin.com/images/book_cover/9788931469837.png" height="350px" style="border: 2px solid grey;">
 
-[하루 만에 배우는 안드로이드 앱 만들기 with 코틀린
-
-
- (영진닷컴)](https://blog.naver.com/ydot/223254332582)
+[하루 만에 배우는 안드로이드 앱 만들기 with 코틀린(영진닷컴)](https://blog.naver.com/ydot/223254332582)
 
 『하루 만에 배우는 안드로이드 앱 만들기 with 코틀린』는 프로그래밍 경험이 없거나 초보자를 위한 완벽한 안내서입니다. 이 책은 지루하고 복잡한 내용을 최소화하고, 초보자들이 쉽게 따라 할 수 있도록 구성되었습니다.
 

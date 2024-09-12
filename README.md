@@ -1,7 +1,7 @@
 # 하루 만에 배우는 안드로이드 앱 만들기 with 코틀린
 
 
-<img src="https://www.youngjin.com/images/book_cover/9788931469837.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931469837.png" height="350px" style="border: 2px solid grey;">
 
 [하루 만에 배우는 안드로이드 앱 만들기 with 코틀린
 
